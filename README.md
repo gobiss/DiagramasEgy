@@ -1,5 +1,13 @@
 # 📌 HelpDesk Inteligente
 
+## 👤 Dev do Projeto
+
+| Nome do Aluno        | RA       | Turma   |
+|-----------------------|----------|---------|
+| Vinícius Gobis Novo   | G967BG0  | DS4P48  |
+
+---
+
 # 🎯 Desafio do Projeto
 
 Atualmente, empresas e usuários enfrentam dificuldades na abertura e gestão de chamados de suporte técnico.  
@@ -49,8 +57,9 @@ O desafio deste projeto é *desenvolver um sistema de chamados inteligente*, que
 
 ## 📅 Cronograma de Evolucão do Projeto
 
-![Cronograma do Projeto]
+![Cronograma do Projeto](https://github.com/gobiss/DiagramasEgy/blob/86c2b3dc3db08b49ff9e1131b0a5e0f1bbf9961d/Cronograma%20do%20Projeto.png)
 
+---
 
 # 📊 Tabela das Sprints
 
