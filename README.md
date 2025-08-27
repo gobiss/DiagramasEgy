@@ -24,7 +24,7 @@
 
 # Casos de Uso
 
-![Casos de Uso]()
+![Casos de Uso](https://github.com/gobiss/DiagramasEgy/blob/8153472ee57755f7c12af5e4bd9e39e3bd299657/Sistema%20Helpdesk%20integrado%20a%20IA.png)
 
 O diagrama acima representa os *principais fluxos do sistema HelpDesk Inteligente* e os diferentes papéis de usuários.  
 
@@ -36,6 +36,7 @@ Também estão representadas funcionalidades de *notificações* (e-mail, sistem
 
 Esse diagrama fornece uma visão geral clara de como os diferentes atores interagem com o sistema, ajudando a entender os requisitos funcionais do projeto.
 
+---
 
 # 🎯 Desafio do Projeto
 
