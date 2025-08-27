@@ -7,6 +7,35 @@
 | Vinícius Gobis Novo   | G967BG0  | DS4P48  |
 
 ---
+# Requisitos Levantados 📝
+
+### Requisitos Funcionais
+* Cadastro de usuário: Usufruidores podem cadastrar no sistema;
+* Autenticação de login com diferentes níveis de acesso;
+* Abertura de chamados: Usuários podem registrar requisições de suporte;
+* Classificação inteligente: A IA analisa os chamados e, com base no histórico de chamados anteriores, sugere soluções às requisições antes de encaminhar ao suporte técnico adequado.
+
+### Requisitos Não-Funcionais
+* Banco de dados em SQL Server;
+* Segurança do Sistema;
+* Modularidade e Sistema integrado.
+
+---
+
+# Casos de Uso
+
+![Casos de Uso]()
+
+O diagrama acima representa os *principais fluxos do sistema HelpDesk Inteligente* e os diferentes papéis de usuários.  
+
+- *Colaborador:* pode autenticar-se, abrir chamados, acompanhar o andamento, receber notificações e fechar chamados quando resolvidos.  
+- *Técnico:* tem acesso às funcionalidades de gestão dos chamados, podendo visualizar, classificar, atualizar, atribuir a si mesmo ou a outros técnicos, além de registrar soluções e encerrar chamados.  
+- *Administrador:* possui permissões avançadas para gerenciar usuários, definir níveis de acesso e gerar relatórios do sistema.  
+
+Também estão representadas funcionalidades de *notificações* (e-mail, sistema e atribuição), *pesquisa de chamados* (por filtros e exportação) e a integração de *IA* para sugerir soluções e apoiar a triagem.  
+
+Esse diagrama fornece uma visão geral clara de como os diferentes atores interagem com o sistema, ajudando a entender os requisitos funcionais do projeto.
+
 
 # 🎯 Desafio do Projeto
 
