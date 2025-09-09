@@ -6,7 +6,16 @@
 |-----------------------|----------|---------|
 | Vinícius Gobis Novo   | G967BG0  | DS4P48  |
 
+## Status do Projeto 📊
+
+## 📌 Status do Projeto
+
+| Projeto          | Status        |
+|------------------|---------------|
+| Sistema HelpDesk | 🟡 Em andamento |
+
 ---
+
 # Requisitos Levantados 📝
 
 ### Requisitos Funcionais
