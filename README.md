@@ -132,7 +132,7 @@ O *HelpDesk Inteligente* permite:
 
 ```bash
 # clone o repositório
-git clone https://github.com/seu-repo.git
+git clone https://github.com/meu-repositorio.git
 cd helpdesk-inteligente
 
 # restaure pacotes e crie o banco
