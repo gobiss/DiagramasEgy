@@ -33,8 +33,7 @@
 
 # Casos de Uso
 
-![Casos de Uso](https://github.com/gobiss/DiagramasEgy/blob/8153472ee57755f7c12af5e4bd9e39e3bd299657/Sistema%20Helpdesk%20integrado%20a%20IA.png)
-
+[Imagem do diagrama de Caso de Uso](./Sistema%20Helpdesk%20integrado%20a%20IA.png)
 O diagrama acima representa os *principais fluxos do sistema HelpDesk Inteligente* e os diferentes papéis de usuários.  
 
 - *Colaborador:* pode autenticar-se, abrir chamados, acompanhar o andamento, receber notificações e fechar chamados quando resolvidos.  
