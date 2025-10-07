@@ -111,7 +111,7 @@ O desafio deste projeto é *desenvolver um sistema de chamados inteligente*, que
 
 ---
 ## 🛠️ Tecnologias Utilizadas
-[Tecnologias](/.Tecnologias.md)
+[Tecnologias](./Tecnologias.md)
 
 ---
 ## 🖥️ Como Utilizar
