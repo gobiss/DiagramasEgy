@@ -1,34 +1,24 @@
 # 📌 HelpDesk Inteligente
 
-## 👤 Dev do Projeto
+## 👤 Time/Status do projeto
 
-| Nome do Aluno        | RA       | Turma   |
-|-----------------------|----------|---------|
-| Vinícius Gobis Novo   | G967BG0  | DS4P48  |
-
-## Status do Projeto 📊
-
-## 📌 Status do Projeto
-
-| Projeto          | Status        |
-|------------------|---------------|
-| Sistema HelpDesk | 🟡 Em andamento |
+[Time/Status](./DevStatus.md)
 
 ---
 
-# Requisitos Levantados 📝
+## Requisitos Levantados 📝
 
 [Requsitos](./Requisitos.md)
 
 ---
 
-# Casos de Uso
+## Casos de Uso 🧐
 
 [Imagem do diagrama de Caso de Uso](./Sistema%20Helpdesk%20integrado%20a%20IA.png)
 
 ---
 
-# 🎯 Desafio do Projeto
+## 🎯 Desafio do Projeto
 
 [Motivo do Projeto](./DesafioProj.md) 
 
@@ -63,4 +53,4 @@
 
 ## 🚀 Como Executar Localmente e rodar localmente o Sistema
 
-[RodarProj](./FunçãoSistema.md)  
+[RodarProj](./RodarProj.md)  
