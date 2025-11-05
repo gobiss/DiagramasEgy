@@ -12,11 +12,27 @@
 
 ---
 
-## Casos de Uso 🧐
+## Casos de Uso 🎭
 
 [Imagem do diagrama de Caso de Uso](./Sistema%20Helpdesk%20integrado%20a%20IA.png)
 
 ---
+
+## Classe 🧩
+
+[Imagem do diagrama de Classe](./DiagramaClassse.png)
+
+---
+
+## Sequencia 🔁
+
+[Imagem do diagrama de Sequencia ](./DiagramaSequencia.png)
+
+---
+
+## Implantação ⚙️
+
+[Imagem do diagrama de Sequencia ](./DiagramaImplantação.png)
 
 ## 🎯 Desafio do Projeto
 
