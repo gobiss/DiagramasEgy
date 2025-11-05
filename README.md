@@ -34,7 +34,7 @@
 
 ---
 
-# 📋 Backlog do Produto
+## 📋 Backlog do Produto
 
 [Backlog](./Backlog.md)
 
@@ -43,9 +43,10 @@
 ## 📅 Cronograma de Evolucão do Projeto
 
 [Imagem do Cronograma](./Cronograma%20do%20Projeto.png)
+
 ---
 
-# 📊 Tabela das Sprints
+## 📊 Tabela das Sprints
 
 [Documento da tabela das sprints](./TabelaSprints.md)
 
@@ -54,25 +55,12 @@
 [Tecnologias](./Tecnologias.md)
 
 ---
-## 🖥️ Como Utilizar
+## 🖥️ Funções do Sistema
 
-O *HelpDesk Inteligente* permite:  
-- *Usuário:* criar conta, abrir chamados, acompanhar e encerrar chamados.  
-- *Técnico:* visualizar, classificar, atualizar e fechar chamados.  
-- *Administrador:* gerenciar usuários, permissões e acompanhar métricas.  
+[Funções](./FunçãoSistema.md)  
 
 ---
 
-## 🚀 Como Executar Localmente
+## 🚀 Como Executar Localmente e rodar localmente o Sistema
 
-```bash
-# clone o repositório
-git clone https://github.com/meu-repositorio.git
-cd helpdesk-inteligente
-
-# restaure pacotes e crie o banco
-dotnet restore
-dotnet ef database update
-
-# rode o projeto
-dotnet run
+[RodarProj](./FunçãoSistema.md)  
